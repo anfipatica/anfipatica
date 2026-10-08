@@ -1,8 +1,25 @@
+# Hi, I'm Yolanda 👋
 
-⚡ When I was a kid I wanted to be a hacker, but I also happened to love art so I **obviously** took the safest path and studied art restoration.
+When I was a kid I wanted to be a hacker, but I also loved art, so I took the
+*obviously* safest path and studied art restoration. Strangely, that's where I
+found programming. Art is frustrating yet rewarding, and so is code.
 
-Strangelly, that's where I discovered my love for ⚡ programming ⚡ and now I can't imagine my life in any other way.
+Junior developer focused on **C/C++** and low-level programming, with a
+background in **SQL and database administration**. Studying at **42 Madrid**.
 
-So... <u>here I am</u> 👀. I don't work as an art restorer and I'm not a hacker *(yet)* but I feel like I get the best of both worlds thanks to programming, since I see it as another form of art. Art is frustrating yet beautiful and rewarding, just like code is.
+## Tech
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-✨ If you know me from 42 Hey! I'm Yolanda! Follow me to see how this strange adventure goes on!
+## Projects
+- [**minishell**](https://github.com/anfipatica/minishell): shell in C with processes, pipes and signals
+- [**ft_irc**](https://github.com/yoliveir/FT_IRC): IRC server in C++98 with sockets and poll
+- **Transcendence**: web app, backend and database in Go (in progress)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/yolanda-mu%C3%B1oz-mart%C3%ADnez-3369a81b7/) · ymunoz.mar@gmail.com
