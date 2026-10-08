@@ -18,10 +18,9 @@ background in **SQL and database administration**. Studying at **42 Madrid Funda
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projects
-- [**minishell**](https://github.com/anfipatica/minishell): shell in C with processes, pipes and signals
-- [**ft_irc**](https://github.com/yoliveir/FT_IRC): IRC server in C++98 with sockets and poll
-- **Transcendence**: web app, backend and database in Go (in progress)
+## Currently working on
+**Transcendence**: a team web app where I'm in charge of the backend and
+database, using Go, Gin and GORM (frontend in Svelte and Three.js).
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/yolanda-mu%C3%B1oz-mart%C3%ADnez-3369a81b7/) · ymunoz.mar@gmail.com
