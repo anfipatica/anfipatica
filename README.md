@@ -1,11 +1,13 @@
-# Hi, I'm Yolanda 👋
+# Hi, I'm Yolanda 🐢
 
 When I was a kid I wanted to be a hacker, but I also loved art, so I took the
-*obviously* safest path and studied art restoration. Strangely, that's where I
-found programming. Art is frustrating yet rewarding, and so is code.
+*obviously* safest path and studied art restoration.
+Life had other plans, though, and eventually programming found its way in.
+
+Turns out the two worlds are closer than they look: art is frustrating yet rewarding, and so is code
 
 Junior developer focused on **C/C++** and low-level programming, with a
-background in **SQL and database administration**. Studying at **42 Madrid**.
+background in **SQL and database administration**. Studying at **42 Madrid Fundación Telefónica**.
 
 ## Tech
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
