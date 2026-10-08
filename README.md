@@ -24,3 +24,5 @@ background in **SQL and database administration**. Studying at **42 Madrid Funda
 **Transcendence**: a team web app where I'm in charge of the backend and
 database, using Go, Gin and GORM (frontend in Svelte and Three.js).
 
+## Contact
+[LinkedIn](https://www.linkedin.com/in/yolanda-mu%C3%B1oz-mart%C3%ADnez-3369a81b7/) · ymunoz.mar@gmail.com
